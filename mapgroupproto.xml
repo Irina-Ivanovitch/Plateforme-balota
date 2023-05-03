@@ -1,0 +1,17 @@
+<group name="Land_Tank_Big" lootmax="10">
+	<usage name="Military" />
+	<container name="lootFloor" lootmax="10">
+				<category name="weapons"/>
+				<category name="explosives"/>		
+	<container name="lootFloor" lootmax="10">
+		<point pos="2.948352 5.181003 -0.802184" range="1" height="1" /> 
+		<point pos="-0.690537 5.168503 2.493408" range="1" height="1" /> 
+		<point pos="-0.980416 5.168504 -4.263148" range="1" height="1" /> 
+		<point pos="-0.896668 5.168503 -1.488207" range="1" height="1" /> 
+		<point pos="-4.693405 5.168505 -0.035634" range="1" height="1" /> 
+		<point pos="-4.937818 5.168505 -3.118158" range="1" height="1" /> 
+		<point pos="2.267387 5.168505 -4.574850" range="1" height="1" /> 
+		<point pos="-2.917639 5.168503 -2.382533" range="1" height="1" /> 
+		<point pos="2.520988 5.168504 3.147667" range="1" height="1" /> 
+	</container>
+</group>
