@@ -14,11 +14,11 @@ Implantation du mapping:
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-Mapping of an oil platform in front of Balota.
+Mapping of an oil platform in front of Balota. It is accessible by swimming, by boat and helicopter depending on the mods used on your server.
 
 Implementation of the mapping:
 
-1- The file Plateforme.dze allows you via DayzEditor Loader to put this mapping on your server. It is accessible by swimming, by boat and helicopter depending on the mods used on your server.
+1- The file Plateforme.dze allows you via DayzEditor Loader to put this mapping on your server. 
 
 2- The Plateforme.json file allows you to implement the mapping on your server via the cfggameplay.json file.
 
