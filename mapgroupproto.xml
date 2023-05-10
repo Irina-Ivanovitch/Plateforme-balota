@@ -3,7 +3,6 @@
 	<container name="lootFloor" lootmax="10">
 				<category name="weapons"/>
 				<category name="explosives"/>		
-	<container name="lootFloor" lootmax="10">
 		<point pos="2.948352 5.181003 -0.802184" range="1" height="1" /> 
 		<point pos="-0.690537 5.168503 2.493408" range="1" height="1" /> 
 		<point pos="-0.980416 5.168504 -4.263148" range="1" height="1" /> 
